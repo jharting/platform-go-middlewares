@@ -1,4 +1,4 @@
-module github.com/redhatinsights/platform-go-middlewares
+module github.com/jharting/platform-go-middlewares
 
 go 1.16
 
